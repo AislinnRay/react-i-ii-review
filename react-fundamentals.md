@@ -2,17 +2,24 @@
 
 Answer these on your own, then compare answers as a group
 
-1.  What is React?
+1.  What is React? 
+  -js library of code, manages DOM, could be called a framework
 
-2.  What is create-react-app?
+2.  What is create-react-app? 
+  -package from npm. handles all of the boiler plate setup of React so that we can start building right away
 
 3.  What is Component Based Architecture?
+  - code is spilt into chunks called components. makes code highly reuseable and easy to debug. 
 
 4.  What is JSX?
+  - javascript expression looks like a blend of js and html and creates elements
 
 5.  What is the virtual DOM?
+ - light-weight copy of dom and reconsiles between them wiht updates are more fast
 
 6.  What is unidirectional (one-way) data flow?
+ - things come down from parent to child but not the other way around can only pass props from parent to child/ 
+ - method lives on parent and can be passed down from parent to child. 
 
 ### Understand
 

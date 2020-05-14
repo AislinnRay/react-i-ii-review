@@ -3,10 +3,18 @@
 Answer these on your own, then compare answers as a group
 
 1.  What is state?
+  - main object used to store data in a component, can only be on class component
 
 2.  Where do you set initial state?
+ - in the constructor function
 
 3.  What method do you use to update state?
+-setState Method which takes in an object which is how state is changed 
+```JSX
+  this.setState({
+    whatIWantToChangeToNewValue: newValue
+  })
+```
 
 ### Understand
 
